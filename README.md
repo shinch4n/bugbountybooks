@@ -9,10 +9,8 @@ Here you get many for `Bug Hunting`.
 ## List Of Books.....
 ---
 
-* AWS - Penetration Testing
 * Bug Bounty Bootcamp The Guide to Finding and Reporting Web Vulnerabilities
 * Bug-Bounty-Playbook-V2
-* BURP_SUITE_COOKBOOK
 * Hacking APIs - Early Access
 * Hacking- The Art of Exploitation
 * Metasploit-The-Penetration-Tester-s-Guide
